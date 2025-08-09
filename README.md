@@ -11,6 +11,10 @@
 
 A **simplified Model Context Protocol (MCP)** server for **raw Markdown content** access. This server provides a single powerful tool for accessing raw Markdown files or combining multiple files from directories without any processing or parsing.
 
+<a href="https://glama.ai/mcp/servers/@hendrickcastro/MCPContentEngineering">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@hendrickcastro/MCPContentEngineering/badge" alt="ContentEngineering MCP server" />
+</a>
+
 ## 🚀 Quick Start
 
 ### Prerequisites
